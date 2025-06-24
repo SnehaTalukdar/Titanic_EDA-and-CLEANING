@@ -36,15 +36,24 @@
 The data is now prepared for machine learning or additional analysis.
 
 ## The following technologies were used in the development of the project using Visual Studio Code (VS Code):
-(1) Python 
-(2) Pandas 
-(3) NumPy 
-(4) Matplotlib 
-(5) Seaborn  
-(6) Plotly Express 
-(7) OS and Platform modules 
-(8) Subprocess Module  
-(9) Visual Studio Code (VS Code) 
+(1) Python
+
+(2) Pandas
+
+(3) NumPy
+
+(4) Matplotlib
+
+(5) Seaborn
+
+(6) Plotly Express
+
+(7) OS and Platform modules
+
+(8) Subprocess Module
+
+(9) Visual Studio Code (VS Code)
+
 
 
 ## Author:
