@@ -59,7 +59,7 @@ The data is now prepared for machine learning or additional analysis.
 ## Author:
 Name - Sneha Talukdar 
 
-Department - B.Tech CSE(AI & ML)
+Department - B.Tech CSE (AI & ML)
 
 Location - Kolkata, West Bengal, India.
 
